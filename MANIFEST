@@ -1,0 +1,9 @@
+Changes
+Makefile.PL
+MANIFEST
+PathInfoXS.xs
+ppport.h
+README
+t/Router-PathInfoXS.t
+lib/Router/PathInfoXS.pm
+typemap

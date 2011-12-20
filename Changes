@@ -1,0 +1,6 @@
+Revision history for Perl extension Router::PathInfoXS.
+
+0.01  Tue Dec 20 11:01:23 2011
+	- original version; created by h2xs 1.23 with options
+		-A -n Router::PathInfoXS
+

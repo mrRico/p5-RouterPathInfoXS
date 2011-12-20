@@ -1,0 +1,2 @@
+TYPEMAP
+Router::PathInfoXS     T_PTROBJ
